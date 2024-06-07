@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">ITMC</string>
+
+    <!--  Screen Names  -->
+    <string name="home_screen_title">Flicker App</string>
+
+    <!--  Images Screen  -->
+    <string name="search">Search</string>
+    <string name="type_input">Type your search here</string>
+    <string name="versus">vs</string>
+    <string name="retry">Retry</string>
+    <string name="no_images">No images found!</string>
+    <string name="no_images_message">Try another input</string>
+
+    <!--  Errors  -->
+    <string name="error_oops_something_went_wrong">Oops, something went wrong!</string>
+    <string name="oops">Oops!</string>
+    <string name="error_something_went_wrong">Something went wrong, please try again</string>
 </resources>
